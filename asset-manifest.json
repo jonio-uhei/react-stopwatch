@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/jonio-uhei/react-stopwatch/static/css/main.f0eccf0b.chunk.css",
+    "main.js": "/jonio-uhei/react-stopwatch/static/js/main.c397a18f.chunk.js",
+    "main.js.map": "/jonio-uhei/react-stopwatch/static/js/main.c397a18f.chunk.js.map",
+    "runtime-main.js": "/jonio-uhei/react-stopwatch/static/js/runtime-main.80cc1dac.js",
+    "runtime-main.js.map": "/jonio-uhei/react-stopwatch/static/js/runtime-main.80cc1dac.js.map",
+    "static/js/2.8828125e.chunk.js": "/jonio-uhei/react-stopwatch/static/js/2.8828125e.chunk.js",
+    "static/js/2.8828125e.chunk.js.map": "/jonio-uhei/react-stopwatch/static/js/2.8828125e.chunk.js.map",
+    "static/js/3.8b397b65.chunk.js": "/jonio-uhei/react-stopwatch/static/js/3.8b397b65.chunk.js",
+    "static/js/3.8b397b65.chunk.js.map": "/jonio-uhei/react-stopwatch/static/js/3.8b397b65.chunk.js.map",
+    "index.html": "/jonio-uhei/react-stopwatch/index.html",
+    "static/css/main.f0eccf0b.chunk.css.map": "/jonio-uhei/react-stopwatch/static/css/main.f0eccf0b.chunk.css.map",
+    "static/js/2.8828125e.chunk.js.LICENSE.txt": "/jonio-uhei/react-stopwatch/static/js/2.8828125e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80cc1dac.js",
+    "static/js/2.8828125e.chunk.js",
+    "static/css/main.f0eccf0b.chunk.css",
+    "static/js/main.c397a18f.chunk.js"
+  ]
+}
